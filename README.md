@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gokulsaranSGS
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on AI project and java projects
+- 🌱 I’m currently Java Fullstack Development
+- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me mail me "gokulsaransaravanan@gmail.com"
 - ⚡ Fun fact: I don't know when to stop working ..
 
